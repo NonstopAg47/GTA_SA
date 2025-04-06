@@ -1,0 +1,4 @@
+If custom animations are to be used, modify "basic anim.cs" with correct animation name and ifp name
+
+Type anim to play anim
+
