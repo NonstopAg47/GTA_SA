@@ -1,0 +1,4 @@
+That one annoying helicopter training mission "Learning to Fly"
+
+Type RXR to destroy car at first location 
+Type RYR to destroy moving car at second location
