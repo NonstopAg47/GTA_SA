@@ -1,2 +1,2 @@
-mark location on map and type drive to activate
+mark location on map and type drive to activate.
 type drive anytime to deactivate
