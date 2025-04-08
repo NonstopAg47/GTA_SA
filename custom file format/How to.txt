@@ -3,6 +3,7 @@ Add {$CLEO .anyformat} as header instead of {$CLEO .cs}
 Thread names should be less than 8 characters long
 After compilation change it to .(any format) if needed
 Always put it in a folder or it will be run automatically
+Use cleo shared var opcode with custom threads if needed
 
 Press y to enable/disable custom thread
 Press x to test custom thread
