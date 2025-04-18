@@ -1,0 +1,2 @@
+Type car to spawn car
+Type iop to enter with animation
