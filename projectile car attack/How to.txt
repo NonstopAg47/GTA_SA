@@ -1,0 +1,2 @@
+Press Q to shoot
+//2 sec cooldown
