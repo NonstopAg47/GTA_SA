@@ -1,0 +1,4 @@
+Type PED - spawn/despawn ped
+Press group CTRL forward key - attack
+Press group CTRL bckward key - retreat
+Target enemy and press crouch key - make ped attack target
