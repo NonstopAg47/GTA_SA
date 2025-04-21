@@ -1,0 +1,3 @@
+Type CAR - spawns car
+Type PED - spawns ped
+Type DLT - deactivates all
