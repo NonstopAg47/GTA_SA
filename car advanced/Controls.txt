@@ -1,0 +1,14 @@
+Press X - spawn/despawn car
+Press Y - enter passenger seat
+Type D1 - open/close driver door
+Type D2 - open/close passenger door
+Type D3 - open/close hood
+Type D4 - open/close trunk
+Type E1 - on/off engine
+Type L1 - on/off light
+Type L2 - door lock/unlock
+Press Ctrl key - Nitro
+Press pgdwn+6 - driver window open
+Press pgdwn+8 - passenger window open
+Press pgup+6 - driver window close
+Press pgup+8 - passenger window close
