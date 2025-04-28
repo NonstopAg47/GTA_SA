@@ -1,0 +1,9 @@
+Type PAT to spawn/despawn car
+Type E1 to start/stop engine
+Type L1 to lock/unlock car
+Type DRI to enable/disable traction
+Press Q to enable/disable offroad
+Press O to enable/disable wheelie
+Type RC to enable/disable rc mode
+	use i,j,k,L to drive
+Press "Conversation - Yes" key to enter as passenger

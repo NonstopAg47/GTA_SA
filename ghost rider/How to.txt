@@ -1,0 +1,6 @@
+Press P to enable/disable ghostrider
+Press L for shooting ped
+Press I to enable/disable flamethrower ;P
+Press K to spawn/despawn bike
+Press Q for increased tire grip
+Type E1 to start/stop engine
