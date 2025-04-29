@@ -1,0 +1,5 @@
+Type "OBJ" to spawn
+
+Check objects.dat      
+Can create fishes as well :)
+https://gtamods.com/wiki/Particle_(SA)
